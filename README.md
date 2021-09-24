@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mena-Ibrahim
-- 👀 I’m interested learning new programming concepts and ideas and experience new things.
-- 🌱 I’m currently learning C++ basics
+- 👀 I’m interested in learning new programming concepts and topics and experiencing new things.
+- 🌱 I’m currently studying to be an ASP FullStack Web Applications Solutions Developer. 
 - 💞️ I’m looking to collaborate on future projects with people from around the world.
 - 📫 How to reach me https://www.facebook.com/mena.ashraf.501/ or whatsapp +201285005268.
 
