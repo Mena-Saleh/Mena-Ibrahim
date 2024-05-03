@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on becoming a better Software Engineer<br>👯 I’m looking to collaborate on Web Dev or AI Engineering projects<br>🤝 I’m looking for help with my career<br>🌱 I’m currently learning Deep learning and Computer Vision<br>💬 Ask me about anything! :)<br>⚡ Fun fact about me, I like to draw and play the piano!
+🔭 I’m currently working on becoming a better Software Engineer<br>👯 I’m always open to collaborate on Web Dev or AI Engineering projects<br>🤝 I’m looking for help with my career<br>🌱 I’m currently learning Deep learning and Computer Vision<br>💬 Ask me about anything! :)<br>⚡ Fun fact about me, I like to draw and play the piano!
 
 
 ## 🌐 Socials:
